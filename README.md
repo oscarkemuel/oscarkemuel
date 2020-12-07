@@ -17,6 +17,6 @@ Desenvolvedor FullStack apaixonado em tecnologia, fan em resolver problemas usan
 [![Node Badge](https://img.shields.io/badge/-Node.js-F1F1F1?style=flat-square&logo=node.js&logoColor=green&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 
 #### No meu GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarel&layout=compact&theme=dracula)](https://github.com/oscarel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkemuell&layout=compact&theme=dracula)](https://github.com/oscarkemuell/github-readme-stats)
 
-[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel&theme=dracula&show_icons=true)](https://github.com/oscarel/github-readme-stats)
+[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarkemuell&theme=dracula&show_icons=true)](https://github.com/oscarkemuell/github-readme-stats)
