@@ -2,8 +2,9 @@
 
 <!--
 **oscarel/oscarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+Oi, sou Oscar Kemuel, desenvolvedor Full Stack apaixonado em tecnologia:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarel&show_icons=true&theme=dracula)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarel&layout=compact&theme=dracula&show_icons=true)](https://github.com/oscarel/github-readme-stats)
+
 [![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel&theme=dracula&show_icons=true)](https://github.com/oscarel/github-readme-stats)
