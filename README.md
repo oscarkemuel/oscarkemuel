@@ -11,12 +11,12 @@ Desenvolvedor FullStack apaixonado em tecnologia, fan em resolver problemas usan
 - 🌱 Atualmente estudando Typescipt.
 - :baby: Comecei a brincar com HTLM com meus 7 anos de idade!
 
-##### Tecnologias:
+#### Tecnologias:
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F1F1F1?style=flat-square&logo=javascript&logoColor=yellow&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![React Badge](https://img.shields.io/badge/-React-F1F1F1?style=flat-square&logo=react&logoColor=blue&link=https://pt-br.reactjs.org/)](https://pt-br.reactjs.org/)
 [![Node Badge](https://img.shields.io/badge/-Node.js-F1F1F1?style=flat-square&logo=node.js&logoColor=green&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 
-##### No meu GitHub:
+#### No meu GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarel&layout=compact&theme=dracula)](https://github.com/oscarel/github-readme-stats)
 
 [![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel&theme=dracula&show_icons=true)](https://github.com/oscarel/github-readme-stats)
