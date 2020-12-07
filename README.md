@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Oscar Kemuel 👋
 
 <!--
 **oscarel/oscarel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Osacar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel)](https://github.com/oscarel/github-readme-stats)
