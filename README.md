@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Osacar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel)](https://github.com/oscarel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarel&layout=compact)](https://github.com/oscarel/github-readme-stats)
+[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel&hide=contribs,prs)
+[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel)](https://github.com/oscarel/github-readme-stats)
