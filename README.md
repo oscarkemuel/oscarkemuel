@@ -1,6 +1,6 @@
 ### Olá, sou Oscar Kemuel 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oscarel)](https://github.com/oscarel)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oscarkemuell)](https://github.com/oscarkemuell)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-kemuel/)](https://www.linkedin.com/in/oscar-kemuel/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-F1F1F1?style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/oscar.kemuel.7)](https://www.facebook.com/oscar.kemuel.7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F1F1F1?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/oscar.kemuel/)](https://www.instagram.com/oscar.kemuel/)
