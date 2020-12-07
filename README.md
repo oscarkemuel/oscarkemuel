@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarel&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarel&layout=compact)](https://github.com/oscarel/github-readme-stats)
-[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel)](https://github.com/oscarel/github-readme-stats)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oscarel&show_icons=true&theme=dracula)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarel&layout=compact&theme=dracula)](https://github.com/oscarel/github-readme-stats)
+[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarel)](https://github.com/oscarel/github-readme-stats&theme=dracula)
