@@ -1,6 +1,6 @@
 ### Olá, sou Oscar Kemuel 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oscarkemuell)](https://github.com/oscarkemuell)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oscarkemuel)](https://github.com/oscarkemuel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-kemuel/)](https://www.linkedin.com/in/oscar-kemuel/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-F1F1F1?style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/oscar.kemuel.7)](https://www.facebook.com/oscar.kemuel.7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F1F1F1?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/oscar.kemuel/)](https://www.instagram.com/oscar.kemuel/)
@@ -17,6 +17,6 @@ Desenvolvedor FullStack apaixonado em tecnologia, fan em resolver problemas usan
 [![Node Badge](https://img.shields.io/badge/-Node.js-F1F1F1?style=flat-square&logo=node.js&logoColor=green&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 
 #### No meu GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkemuell&layout=compact&theme=dracula)](https://github.com/oscarkemuell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkemuel&layout=compact&theme=dracula)](https://github.com/oscarkemuel/github-readme-stats)
 
-[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarkemuell&theme=dracula&show_icons=true)](https://github.com/oscarkemuell/github-readme-stats)
+[![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarkemuel&theme=dracula&show_icons=true)](https://github.com/oscarkemuel/github-readme-stats)
