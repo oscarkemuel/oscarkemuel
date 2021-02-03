@@ -5,7 +5,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-F1F1F1?style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/oscar.kemuel.7)](https://www.facebook.com/oscar.kemuel.7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F1F1F1?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/oscar.kemuel/)](https://www.instagram.com/oscar.kemuel/)
 
-Desenvolvedor FullStack apaixonado em tecnologia, fan em resolver problemas usando códigos!
+Desenvolvedor Front-end apaixonado em tecnologia, fan em resolver problemas e criar interfaces usando códigos!
 
 - :mortar_board: Cursando Bacharelado de Tecnolgia da Informação - UFRN.
 - 🌱 Atualmente estudando Typescipt.
