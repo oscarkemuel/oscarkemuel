@@ -9,7 +9,7 @@ Desenvolvedor Front-end apaixonado em tecnologia, fan em resolver problemas e cr
 
 - :mortar_board: Cursando Bacharelado de Tecnolgia da Informação - UFRN.
 - 🌱 Atualmente estudando React.js.
-- :baby: Comecei a brincar com HTLM com meus 7 anos de idade!
+- :baby: Comecei a brincar com HTLM com meus 12 anos de idade!
 
 #### Tecnologias:
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F1F1F1?style=flat-square&logo=javascript&logoColor=yellow&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
