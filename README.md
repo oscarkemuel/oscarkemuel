@@ -8,7 +8,7 @@
 Desenvolvedor Front-end apaixonado em tecnologia, fan em resolver problemas e criar interfaces usando códigos!
 
 - :mortar_board: Cursando Bacharelado de Tecnolgia da Informação - UFRN.
-- 🌱 Atualmente estudando Typescipt.
+- 🌱 Atualmente estudando React.js.
 - :baby: Comecei a brincar com HTLM com meus 7 anos de idade!
 
 #### Tecnologias:
