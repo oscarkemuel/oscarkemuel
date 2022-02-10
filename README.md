@@ -1,5 +1,5 @@
 ### Olá, sou Oscar Kemuel 👋
-https://portfolio-oscarkemuel.vercel.app/
+https://oscarkemuel.com.br/
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oscarkemuel)](https://github.com/oscarkemuel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-kemuel/)](https://www.linkedin.com/in/oscar-kemuel/)
