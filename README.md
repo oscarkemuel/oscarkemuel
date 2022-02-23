@@ -9,7 +9,7 @@ https://oscarkemuel.com.br/
 Desenvolvedor Web apaixonado por tecnologia. Atualmente cursando Bacharelado de Tecnolgia da Informação na UFRN.
 
 - :mortar_board: Cursando Bacharelado de Tecnolgia da Informação - UFRN.
-- 🌱 Atualmente estudando React.js.
+- 🌱 Atualmente estudando React (Web e Mobile) e um pouco de backend.
 - :baby: Comecei a brincar com HTML e CSS com meus 12 anos de idade!
 
 #### Tecnologias:
