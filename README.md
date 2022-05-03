@@ -6,9 +6,9 @@ https://oscarkemuel.com.br/
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-F1F1F1?style=flat-square&logo=facebook&logoColor=blue&link=https://www.facebook.com/oscar.kemuel.7)](https://www.facebook.com/oscar.kemuel.7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-F1F1F1?style=flat-square&logo=instagram&logoColor=purple&link=https://www.instagram.com/oscar.kemuel/)](https://www.instagram.com/oscar.kemuel/)
 
-Desenvolvedor Web apaixonado por tecnologia. Atualmente cursando Bacharelado de Tecnolgia da Informação na UFRN.
+Desenvolvedor Web apaixonado por tecnologia. Atualmente cursando Bacharelado em Tecnolgia da Informação pela UFRN.
 
-- :mortar_board: Cursando Bacharelado de Tecnolgia da Informação - UFRN.
+- :mortar_board: Cursando Bacharelado em Tecnolgia da Informação - UFRN.
 - 🌱 Atualmente estudando React (Web e Mobile) e um pouco de backend.
 - :baby: Comecei a brincar com HTML e CSS com meus 12 anos de idade!
 
