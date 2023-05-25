@@ -9,8 +9,8 @@ https://oscarkemuel.com.br/
 Desenvolvedor Web apaixonado por tecnologia. Atualmente cursando Bacharelado em Tecnolgia da Informação pela UFRN.
 
 - :mortar_board: Cursando Bacharelado em Tecnolgia da Informação - UFRN.
-- 🌱 Atualmente estudando React (Web e Mobile) e um pouco de backend.
 - :baby: Comecei a brincar com HTML e CSS com meus 12 anos de idade!
+- 👨‍💻 Atualmente trabalho como Front-end Developer no inMaster da Intelbras.
 
 #### Tecnologias:
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F1F1F1?style=flat-square&logo=javascript&logoColor=yellow&link=https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
