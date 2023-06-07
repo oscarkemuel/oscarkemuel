@@ -1,6 +1,6 @@
 Hello, I'm Oscar Kemuel 👋
 
-[Link to my website](https://oscarkemuel.com.br/)
+[Link to my website](https://oscarkemuel.com/)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oscarkemuel)](https://github.com/oscarkemuel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oscar-kemuel/)](https://www.linkedin.com/in/oscar-kemuel/)
