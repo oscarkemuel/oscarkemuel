@@ -19,6 +19,6 @@ I'm a Web Developer passionate about technology. Currently pursuing a Bachelor's
 [![Node Badge](https://img.shields.io/badge/-Node.js-F1F1F1?style=flat-square&logo=node.js&logoColor=green&link=https://nodejs.org/en/)](https://nodejs.org/en/)
 
 #### On my GitHub:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkemuel&layout=compact&theme=dracula)](https://github.com/oscarkemuel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarkemuel&layout=compact&theme=dracula&exclude_repo=tests-evosuit-randoop)](https://github.com/oscarkemuel/github-readme-stats)
 
 [![Oscar's github stats](https://github-readme-stats.vercel.app/api?username=oscarkemuel&theme=dracula&show_icons=true)](https://github.com/oscarkemuel/github-readme-stats)
